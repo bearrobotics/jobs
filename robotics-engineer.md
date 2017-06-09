@@ -19,6 +19,7 @@ ROS experience is a must.
 * Deep understanding of autonomous mobile robots and SLAM.
 * Familiarity with 2D and 3D sensors.
 * Masters or Ph.D.
+* US work permit.
 
 # Computer Vision Engineer
 Prototype and develop deep learning driven computer vision/imaging algorithms for our robots.
@@ -28,3 +29,4 @@ Prototype and develop deep learning driven computer vision/imaging algorithms fo
 * Familiarity with OpenCV and Deep-learning
 * CUDA experts preferred
 * Masters or Ph.D.
+* US work permit.
