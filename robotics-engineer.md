@@ -13,6 +13,18 @@ Innovations in robotics algorithms and implementation including path-planning,
 obstacle avoidance, and simulated testing for mobile service robots.
 ROS experience is a must.
 
-# Computer Vision 
-Design and implement 2D object recognition engine and its service.
-Familiarity with OpenCV and deep-learning is a plus.
+## Requirements
+* Exceptional software engineering skill.
+* ROS navigation stack.
+* Deep understanding of autonomous mobile robots and SLAM.
+* Familiarity with 2D and 3D sensors.
+* Masters or Ph.D.
+
+# Computer Vision Engineer
+Prototype and develop deep learning driven computer vision/imaging algorithms for our robots.
+
+## Requirements
+* Exceptional software engineering skill.
+* Familiarity with OpenCV and Deep-learning
+* CUDA experts preferred
+* Masters or Ph.D.
