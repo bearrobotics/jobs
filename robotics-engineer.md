@@ -18,7 +18,7 @@ ROS experience is a must.
 ### Requirements
 * Exceptional software engineering skill.
 * ROS navigation stack.
-* Deep understanding of autonomous mobile robots and SLAM.
+* Deep understanding of autonomous mobile robots (SLAM, path planning, etc.)
 * Familiarity with 2D and 3D sensors.
 * C++ & Python
 * Masters or Ph.D.
