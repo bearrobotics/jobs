@@ -20,6 +20,7 @@ ROS experience is a must.
 * ROS navigation stack.
 * Deep understanding of autonomous mobile robots and SLAM.
 * Familiarity with 2D and 3D sensors.
+* C++ & Python
 * Masters or Ph.D.
 * US work permit.
 
@@ -30,6 +31,7 @@ Prototype and develop deep learning driven computer vision/imaging algorithms fo
 * Exceptional software engineering skill.
 * Familiarity with OpenCV and Deep-learning
 * CUDA experts preferred
+* C++ & Python
 * Masters or Ph.D.
 * US work permit.
 
