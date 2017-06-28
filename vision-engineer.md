@@ -16,8 +16,12 @@ detection, recognition, and tracking required.
 ### Requirements
 * Exceptional software engineering skill.
 * Ph.D. in Computer Vision (and/or Machine Learning).
+* C++
 * US work permit.
-* 5+ years of experience
+
+### Location
+* Palo Alto, CA
+* Seoul, Korea
 
 ## How to Apply
 If you are interested in, please send us your resume to jobs@bearrobotics.ai. 
