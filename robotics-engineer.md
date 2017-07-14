@@ -22,7 +22,7 @@ experienced in ROS.
 * US work permit.
 
 ### Location
-* Palo Alto, CA
+* Sunnyvale, CA
 * Seoul, Korea
 
 ## How to Apply

@@ -20,7 +20,7 @@ detection, recognition, and tracking required.
 * US work permit.
 
 ### Location
-* Palo Alto, CA
+* Sunnyvale, CA
 * Seoul, Korea
 
 ## How to Apply
