@@ -14,15 +14,14 @@ of the product development. This is essential to understand the product that has
 never been existed in the world, and come up with the best design a human can
 come up with. A robot working in a crowded area requires lots of breakthroughs
 not only the technology but also the design of the shape and the interaction
-with humans. We expect the designer to get their hands dirty in restaurant
-operation, working together with the restaurant employees and later on melt
-their experience into the product.
+with humans (both customers and employees). We expect the designer to get their
+hands dirty in restaurant operations, working together with the restaurant
+employees and robots, and later melt their experience into the product.
 
 ### Requirements
 * Bachelors degree in design
 * Consumer product design experience
 * Passion about food
-* Must outperform our own robots
 * Driver license (to drive between the office and the restaurants carrying the robots)
 * US work permit.
 
