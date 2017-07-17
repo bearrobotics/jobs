@@ -1,13 +1,13 @@
 # Bear Robotics, Inc.
 
-Bear Robotics, Inc. is a Silicon Valley (Palo Alto, CA) based ex-Googler startup
+Bear Robotics, Inc. is a Silicon Valley (Sunnyvale, CA) based ex-Googler startup
 reshaping the labor-intensive restaurants using Robotics, Vision, and AI.  We
 have great team members, investors and good understanding of the market. We
 dream of the days where robots and humans interact closely to improve the
 quality of human life for customers as well as employees and employers.  We are
 hiring exceptional self-motivated pioneers to be the leader of Industry 4.0.
 
-## In-house Full-stack Designer
+## In-house Full-stack Industrial Designer
 Yes. You read it right! We are looking for a full-stack "designer".
 We would like to have a genius designer to get involved in from the beginning
 of the product development. This is essential to understand the product that has
