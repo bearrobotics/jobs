@@ -22,7 +22,6 @@ employees and robots, and later melt their experience into the product.
 * Bachelors degree in design
 * Consumer product design experience
 * Passion about food
-* Driver license (to drive between the office and the restaurants carrying the robots)
 * US work permit.
 
 ### Location
