@@ -1,4 +1,4 @@
-# Bear Robotics, Inc.
+# Bear Robotics, Inc. ...
 
 Bear Robotics, Inc. is a Silicon Valley (Sunnyvale, CA) based ex-Googler startup
 reshaping the labor-intensive restaurants using Robotics, Vision, and AI.  We
